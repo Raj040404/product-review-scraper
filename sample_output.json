@@ -1,0 +1,26 @@
+[
+    {
+        "source": "G2",
+        "title": "Great tool for team collaboration",
+        "author": "Jane Doe",
+        "rating": 4.5,
+        "date": "2023-05-15",
+        "content": "Slack has revolutionized how our team communicates. The threads feature is particularly useful for keeping conversations organized..."
+    },
+    {
+        "source": "Capterra",
+        "title": "Essential for remote work",
+        "author": "John Smith",
+        "rating": 5.0,
+        "date": "2023-06-20",
+        "content": "I can't imagine working remotely without Slack. The integrations with Google Drive and Jira save us so much time."
+    },
+    {
+        "source": "TrustRadius",
+        "title": "Good but expensive",
+        "author": "Verified User",
+        "rating": 4.0,
+        "date": "2023-08-10",
+        "content": "The features are top-notch but the pricing can be steep for smaller teams. Audio huddles are a game changer."
+    }
+]
